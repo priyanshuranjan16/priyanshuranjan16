@@ -1,4 +1,4 @@
-<img src="/assets/githubbanner.gif" width="100%" height="400" alt="Github Banner"/>
+<img src="/assets/githubbanner.gif" width="100%" height="300" alt="Github Banner"/>
 
 <h1 align="center">Hi 👋, I'm Priyanshu Ranjan</h1>
 <h3 align="center">💻 A Curious Full Stack Developer from India 🚀</h3>
@@ -8,7 +8,11 @@
   Whether it’s frontend magic ✨ or backend logic ⚙️, I enjoy exploring both worlds of development.
 </p>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<br>
+
+<p align="center">
+  <img alt="coding" src="/assets/hero.gif" width="500" height="300"/>
+</p>
 
 ---
 
@@ -25,10 +29,10 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://x.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://www.instagram.com/your-instagram/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.leetcode.com/your-leetcode" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+  <a href="https://x.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://www.instagram.com/your-instagram/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+  <a href="https://www.leetcode.com/your-leetcode" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="45"/></a>
 </p>
 
 ---
@@ -61,13 +65,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
-
-
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/dipanshukrgit/dipanshukrgit/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
----
-
-
