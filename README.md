@@ -33,49 +33,35 @@
 
 ---
 
-## 💻 Tech Stack
+### 💻 Languages & Tools
 
 <p align="center">
-  <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" /><br/>
-  
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" /><br/>
-  
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,prisma" /><br/>
-  
-  <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws,docker,nginx" /><br/>
-  
-  <!-- Tools & Testing -->
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,jest" /><br/>
-  
-  <!-- Design -->
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,postgresql,redux,ts,js,html,css,tailwind,sass,bootstrap,python,c,cpp,git,github,vscode,figma,ps,arduino,firebase,blender" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dipanshukrgit&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&hide_border=false" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipanshukrgit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
 
-## 🚀 Current Focus
-- 🔨 Building full-stack projects with **Next.js + Node.js**  
-- 🏗️ Exploring **scalable system design**  
-- 📈 Sharpening problem-solving on **LeetCode**  
-- 🎨 Designing **user-friendly UIs** with **Tailwind & Figma**
 
 ---
+
+### ✍️ Quote to Live By
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
+
 
 ## 🐍 Contribution Graph
 <p align="center">
@@ -84,4 +70,4 @@
 
 ---
 
-✨ *Thanks for visiting my profile! Let’s connect and build something amazing together.* 🚀
+
