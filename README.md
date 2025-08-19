@@ -1,22 +1,87 @@
-<h1 align="center">Hi 👋, I'm Priyanshu</h1>
-<h3 align="center">ECE undergrad at IIIT Ranchi.</h3>
+<img src="https://github.com/satyam-svg/satyam-svg/blob/main/satyam.png" width="100%" alt="Github Banner"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuranjan16&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuranjan16" /> </p>
+<h1 align="center">Hi 👋, I'm Priyanshu Ranjan</h1>
+<h3 align="center">💻 A Curious Full Stack Developer from India 🚀</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/priyanshu_1_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshu_1_6" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/priyanshuranjan16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshuranjan16/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pri.yanshu.16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pri.yanshu.16/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/blade_xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/blade_xd" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/blade_xd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/blade_xd/" height="30" width="40" /></a>
+<p align="center">
+  I love turning ideas into code, building scalable web apps, and learning something new every day.  
+  Whether it’s frontend magic ✨ or backend logic ⚙️, I enjoy exploring both worlds of development.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  </p>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshuranjan16&show_icons=true&locale=en&layout=compact" alt="priyanshuranjan16" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshuranjan16&show_icons=true&locale=en" alt="priyanshuranjan16" /></p>
+## ⚡ Quick Facts
+- 🌱 Currently learning **System Design & Next.js 15**  
+- 💡 Motto: *“Google is my second brain”*  
+- 👨‍💻 Explore my work 👉 [Portfolio](https://your-portfolio-link.com)  
+- ☕ Fueled by **Coffee + Debugging**  
+- 📫 Reach me at: **your-email@example.com**  
+- 🎯 Goal: Build apps people actually *use*  
+- 🤔 Fun fact: I write bugs faster than I fix them 😅  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuranjan16&" alt="priyanshuranjan16" /></p>
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://x.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.instagram.com/your-instagram/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://www.leetcode.com/your-leetcode" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" /><br/>
+  
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi" /><br/>
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,prisma" /><br/>
+  
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws,docker,nginx" /><br/>
+  
+  <!-- Tools & Testing -->
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,jest" /><br/>
+  
+  <!-- Design -->
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&hide_border=false" height="200"/>
+</p>
+
+---
+
+## 🚀 Current Focus
+- 🔨 Building full-stack projects with **Next.js + Node.js**  
+- 🏗️ Exploring **scalable system design**  
+- 📈 Sharpening problem-solving on **LeetCode**  
+- 🎨 Designing **user-friendly UIs** with **Tailwind & Figma**
+
+---
+
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+✨ *Thanks for visiting my profile! Let’s connect and build something amazing together.* 🚀
