@@ -1,4 +1,4 @@
-<img src="https://github.com/satyam-svg/satyam-svg/blob/main/satyam.png" width="100%" alt="Github Banner"/>
+<img src="/assets/githubbanner.gif" width="100%" height="400" alt="Github Banner"/>
 
 <h1 align="center">Hi 👋, I'm Priyanshu Ranjan</h1>
 <h3 align="center">💻 A Curious Full Stack Developer from India 🚀</h3>
