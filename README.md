@@ -65,7 +65,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
-## 🐍 Contribution Graph
-<p align="center">
-  <img src="https://github.com/dipanshukrgit/dipanshukrgit/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+
