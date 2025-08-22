@@ -1,7 +1,7 @@
 <img src="/assets/githubbanner.gif" width="100%" height="300" alt="Github Banner"/>
 
 <h1 align="center">Hi 👋, I'm Priyanshu Ranjan</h1>
-<h3 align="center">💻 A Curious Full Stack Developer from India 🚀</h3>
+<h3 align="center">💻 A Full Stack Developer from India 🚀</h3>
 
 <p align="center">
   I love turning ideas into code, building scalable web apps, and learning something new every day.  
@@ -18,10 +18,9 @@
 
 ## ⚡ Quick Facts
 - 🌱 Currently learning **System Design & Next.js 15**  
-- 💡 Motto: *“Google is my second brain”*  
-- 👨‍💻 Explore my work 👉 [Portfolio](https://your-portfolio-link.com)  
+- 👨‍💻 Explore my work 👉 [Portfolio](https://priyanshuranjan.vercel.app/)  
 - ☕ Fueled by **Coffee + Debugging**  
-- 📫 Reach me at: **your-email@example.com**  
+- 📫 Reach me at: **priyanshu.iiitr@gmail.com**  
 - 🎯 Goal: Build apps people actually *use*  
 - 🤔 Fun fact: I write bugs faster than I fix them 😅  
 
