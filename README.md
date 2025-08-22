@@ -31,10 +31,10 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://x.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="https://www.instagram.com/your-instagram/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
-  <a href="https://www.leetcode.com/your-leetcode" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="45"/></a>
+  <a href="https://x.com/priyanshu_1_6" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+  <a href="https://www.linkedin.com/in/priyanshuranjan16/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://www.instagram.com/pri.yanshu.16" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+  <a href="https://leetcode.com/u/blade_xd/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="45"/></a>
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ### 💻 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,postgresql,redux,ts,js,html,css,tailwind,sass,bootstrap,python,c,cpp,git,github,vscode,figma,ps,arduino,firebase,blender" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,postgresql,redux,ts,js,html,css,tailwind,sass,bootstrap,python,c,cpp,git,github,vscode,figma,ps,arduino,firebase" />
 </p>
 
 ---
