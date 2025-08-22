@@ -1,6 +1,11 @@
-<img src="/assets/githubbanner.gif" width="100%" height="300" alt="Github Banner"/>
 
-<h1 align="center">Hi 👋, I'm Priyanshu Ranjan</h1>
+<p align="center">
+<img src="/assets/githubbanner.gif" width="100%" height="300" alt="Priyanshu Ranjan Banner"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Priyanshu+Ranjan:)" />
+</h1>
 <h3 align="center">💻 A Full Stack Developer from India 🚀</h3>
 
 <p align="center">
@@ -10,13 +15,11 @@
 
 <br>
 
-<p align="center">
-  <img alt="coding" src="/assets/hero.gif" width="500" height="300"/>
-</p>
+<img align="right" alt="Coding" height="220" width="400" src="assets/hero.gif" />
 
----
 
-## ⚡ Quick Facts
+
+### ⚡ Quick Facts About Me
 - 🌱 Currently learning **System Design & Next.js 15**  
 - 👨‍💻 Explore my work 👉 [Portfolio](https://priyanshuranjan.vercel.app/)  
 - ☕ Fueled by **Coffee + Debugging**  
