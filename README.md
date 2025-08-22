@@ -29,12 +29,21 @@
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://x.com/priyanshu_1_6" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
-  <a href="https://www.linkedin.com/in/priyanshuranjan16/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="https://www.instagram.com/pri.yanshu.16" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
-  <a href="https://leetcode.com/u/blade_xd/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="45"/></a>
+
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/priyanshuranjan16" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+ 
+  <a href="https://instagram.com/pri.yanshu.16" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/priyanshu_1_6" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
 </p>
 
 ---
