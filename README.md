@@ -20,7 +20,7 @@
 
 
 ### ⚡ Quick Facts About Me
-- 🌱 Currently learning **System Design & Next.js 15**
+- 🌱 Currently learning **System Design & Next.js 16**
 - 👨‍💻 Explore my work 👉 [Portfolio](https://priyanshuranjan.vercel.app/)  
 - ☕ Fueled by **Coffee + Debugging**  
 - 📫 Reach me at: **priyanshu.iiitr@gmail.com**  
